@@ -1,14 +1,24 @@
-# AronaQQBotDoc(优化版)
-QQ机器人「阿洛娜」的文档 -更新版 你可以使用原有的文档 也可以使用更新过的 更新过的文档会从vue出发,便用户能更好的使用. 请注意,该新项目未上线
+# arona
 
-# 阿洛娜 (A.R.O.N.A) 使用文档
+## Project setup
+```
+npm install
+```
 
-欢迎来到 QQ机器人「阿洛娜」(A.R.O.N.A) 的使用文档。
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-## 使用说明
+### Compiles and minifies for production
+```
+npm run build
+```
 
-请在正式使用「阿洛娜」前阅读 [EULA协议](./documentation/eula.md)。
+### Lints and fixes files
+```
+npm run lint
+```
 
-## 版权声明
-
-本项目使用 [VuePress Theme Hope](https://theme-hope.vuejs.press/zh/) 主题 | by [Travellerr](https://github.com/Travellerrr)。
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
