@@ -8,11 +8,12 @@
 <style lang="scss" scoped>
     .section-card{
         width: 100%;
-        height: 60vh;
+        height: 100vh;
         img{
             width: 100%;
             height: 100%;
             object-fit: cover;
+            background-attachment: fixed;
         }
     }
 </style>
