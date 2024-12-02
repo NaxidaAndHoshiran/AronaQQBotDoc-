@@ -15,6 +15,8 @@ yarn install[补全文件(Complete the file)]
 npm run serve
 ---use yarn start
 yarn serve
+
+而后在浏览器输入localhost:8080/即可(Then enter localhost: 8080/in the browser)
 ```
 
 ### Compiles and minifies for production(生成生产环境文件-配置后端使用)
